@@ -27,6 +27,8 @@ Don't forget to code along in your console!
 
 We can create objects in JavaScript to associate values to properties, like a sandwich:
 
+
+
 ```js
 var pbj = {
   bread: "white",
